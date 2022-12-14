@@ -1,0 +1,10 @@
+
+
+<<< Recorded commands on Tue Dec 13 2022 14:16:00 GMT+0700 (Western Indonesia Time)
+I.click('#likeButton');
+I.click('#likeButton');
+I.click('#likeButton');
+I.amOnPage('/#/like');
+
+<<< Recorded commands on Wed Dec 14 2022 09:58:54 GMT+0700 (Western Indonesia Time)
+I.grabTextFrom(locate('.movie__title').at(1))
